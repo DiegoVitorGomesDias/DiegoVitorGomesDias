@@ -6,7 +6,7 @@
 🧮 Inteligência Lógica-Matemática, Intrapessoal e Existencial.\
 ✨ Apaixonado por tecnologia, matemática, vôlei, astronomia e música.\
 📖 Conhecimentos notáveis em informática, pacote Office, pacote Adobe, programação, entre outros.\
-🗣️ Sobre comunicação e proatividade, sou Instrutor na Associação de Polícia Mirim de Manhuaçu, lecionando sobre Hierarquia e Disciplina, Ética e Moral, Chefia e Liderança. Encerrei meu ciclo como Policial Mirim no de 2022 na patente de Major, sendo a 3º maior da instituição devido principalmente a minha proatividade, responsabilidade, ao meu conhecimento e minhas aptidões.
+🗣️ Instrutor na Associação de Polícia Mirim de Manhuaçu, lecionando sobre Hierarquia e Disciplina, Ética e Moral, Chefia e Liderança.
 
 ### 🔗Links:
 [Linkedin](https://www.linkedin.com/in/diegovitorgomesdias/): @diegovitorgomesdias\
@@ -26,7 +26,7 @@
 🧮 Logical-Mathematical, Intrapersonal and Existential Intelligence.\
 ✨ Passionate about technology, mathematics, volleyball, astronomy and music.\
 📖 Remarkable knowledge in computing, Office package, Adobe package, frontend programming, among others.\
-🗣️ About communication and proactivity, I am an Instructor at the Associação de Polícia Mirim de Manhuaçu, teaching about Hierarchy and Discipline, Ethics and Morals, Headship and Leadership. I ended my cycle as a Junior Police Officer in 2022 in the rank of Major, being the 3rd largest in the institution mainly due to my proactivity, responsibility, my knowledge and skills.
+🗣️ I am an Instructor at the Associação de Polícia Mirim de Manhuaçu, teaching about Hierarchy and Discipline, Ethics and Morals, Headship and Leadership.
 
 ### 🔗Links:
 [Linkedin](https://www.linkedin.com/in/diegovitorgomesdias/): @diegovitorgomesdias\
