@@ -4,7 +4,7 @@
 👀 Tenho interesse em Desenvolvimento Frontend e Web Design\
 📚 Eterno aprendiz e buscador de conhecimento.\
 🧮 Inteligência Lógica-Matemática, Intrapessoal e Existencial.\
-✨ Apaixonado por tecnologia, matemática, vôlei, astronomia e música.\
+✨ Apaixonado por ciência, tecnologia, matemática, vôlei, astronomia e música.\
 📖 Conhecimentos notáveis em informática, pacote Office, pacote Adobe, programação, entre outros.\
 🗣️ Instrutor na Associação de Polícia Mirim de Manhuaçu, lecionando sobre Hierarquia e Disciplina, Ética e Moral, Chefia e Liderança.
 
