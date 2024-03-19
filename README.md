@@ -1,6 +1,6 @@
 # PT_BR
 
-👋 Olá mundo. Meu nome é @DiegoVitorGomesDias e tenho 18 anos.\
+👋 Olá mundo. Meu nome é @DiegoVitorGomesDias e tenho 19 anos.\
 👀 Tenho interesse em Desenvolvimento Frontend e Web Design\
 📚 Eterno aprendiz e buscador de conhecimento.\
 🧮 Inteligência Lógica-Matemática, Intrapessoal e Existencial.\
@@ -20,7 +20,7 @@
 
 # EN_US
 
-👋 Hello world. My name is @DiegoVitorGomesDias and I'm 18 years old.\
+👋 Hello world. My name is @DiegoVitorGomesDias and I'm 19 years old.\
 👀 I’m interested in Web Design and FrontEnd Development\
 📚 Eternal apprentice and seeker of knowledge.\
 🧮 Logical-Mathematical, Intrapersonal and Existential Intelligence.\
