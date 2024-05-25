@@ -1,12 +1,13 @@
 # PT_BR
 
 👋 Olá mundo. Meu nome é @DiegoVitorGomesDias e tenho 19 anos.\
-👀 Tenho interesse em Desenvolvimento Frontend e Web Design\
+👀 Tenho interesse em Desenvolvimento Frontend e Web Design.\
+🎯 Gosto de resolver problemas em minha área.\
 📚 Eterno aprendiz e buscador de conhecimento.\
 🧮 Inteligência Lógica-Matemática, Intrapessoal e Existencial.\
 ✨ Apaixonado por ciência, tecnologia, matemática, vôlei, astronomia e música.\
 📖 Conhecimentos notáveis em informática, pacote Office, pacote Adobe, programação, entre outros.\
-🗣️ Instrutor na Associação de Polícia Mirim de Manhuaçu, lecionando sobre Hierarquia e Disciplina, Ética e Moral, Chefia e Liderança.
+🗣️ Antigo Instrutor da Associação de Polícia Mirim de Manhuaçu, lecionando sobre Hierarquia e Disciplina, Ética e Moral, Chefia e Liderança.
 
 ### 🔗Links:
 [Linkedin](https://www.linkedin.com/in/diegovitorgomesdias/): @diegovitorgomesdias\
